@@ -1,3 +1,4 @@
+#TIMER
 Overview <br>
 This project presents a fully-featured stopwatch component designed for accurate time tracking and seamless lap recording within modern applications. 
 With real-time display updates and intuitive controls, it serves as an ideal solution for integrating time-sensitive functionalities.
